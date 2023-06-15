@@ -3,7 +3,8 @@
 
 body{
 	background: url("images/background.jpeg") no-repeat;
-	background-size: cover;
+	background-size:cover;
+	
 	
 }
 wrapper{
@@ -13,10 +14,77 @@ wrapper{
 }
 header{
 	width: 100%;
-	height: 100px;
+	height: 200px;
 }
 
 header h1 {
+	font-size: 150px;
+	font-family:Rugrats;
+font-weight: 500;
+font-style: oblique;
+	text-align: center;
+	color: rgba(79,1,156,1.00)
+		
+}
+nav{
+	width:100%;
+	text-align: center;
+	font-size: 50px
 	
+}
+
+nav ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 	
+}
+
+nav li{
+	display:inline;
+	
+}
+footer{
+	text-align: left;
+	clear:none;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+
+}
+
+nav a:link {
+font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+  color:rgba(104,104,104,.75);
+  text-decoration: none;
+  margin-right: 100px;
+	
+}
+
+nav a:active {
+	color:royalblue
+  
+}
+
+nav a:hover {
+  color:rgba(15,24,191,1.00);
+}
+
+nav a:active {
+  text-decoration: underline;
+}
+
+.left{
+	width: 50px;
+	float:left;
+	margin-top:50px;
+	margin-bottom: 40px;
+	
+}
+
+.right{
+	width: 250px; 
+	float:right;
+	margin-left: 10px;
+	margin-top:10px;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 20px;
 }
