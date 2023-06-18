@@ -92,3 +92,11 @@ nav a:active {
 	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	font-size: 30px;
 }
+
+.down{width: 400px; 
+	float:left;
+	margin-left: 10px;
+	margin-top:10px;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 30px;
+}
