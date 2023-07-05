@@ -43,8 +43,18 @@ font-style: normal;
 
 label{ 
 	font-size: 35px;
-		font-family:Constantia, 'Lucida Bright', 'DejaVu Serif', Georgia, 'serif'
+	font-family: "juniper-std", sans-serif;
+font-weight: 400;
+font-style: normal;
+	color: maroon
 }
 
+input{ 
+	border-left-style:ridge; 
+	border-color:purple;
+	font-size: 20px;
+		
+
+}
 
 
