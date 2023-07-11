@@ -27,7 +27,7 @@ header h1 {
 font-weight: 400;
 font-style: normal;
 	text-align: center;
-	color:#DC8000
+	color: maroon
 	
 }
 nav{
@@ -68,12 +68,12 @@ font-style: normal;
 }
 
 nav a:active {
-	color: darkslateblue
+	color:cadetblue
   
 }
 
 nav a:hover {
-  color:#31D93D;
+  color:#100A98;
 }
 
 nav a:active {
