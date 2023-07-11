@@ -27,7 +27,7 @@ header h1 {
 font-weight: 400;
 font-style: normal;
 	text-align: center;
-	color:darkred
+	color:maroon
 	
 }
 
@@ -60,6 +60,9 @@ input{
 	font-size: 20px;
 		
 
+}
+ul {
+  list-style: square;
 }
 		
 
